@@ -1,0 +1,10 @@
+pyttsx3
+streamlit
+ultralytics
+numpy
+opencv-python>=4.10.0.84
+matplotlib
+pandas
+scikit-learn
+tensorflow
+joblib
